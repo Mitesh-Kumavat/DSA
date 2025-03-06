@@ -1,22 +1,9 @@
 /*
  * Problem Statement: Given a 32-bit signed integer, reverse digits of an integer.
  * Leetcode: https://leetcode.com/problems/reverse-integer/
- * 
- * -> Test case:
- * Input: 123
- * Output: 321
- * 
- * Input: -123
- * Output: -321
- * 
- * Input: 120
- * Output: 21
- * 
- * Input: 1534236469
- * Output: 0
  */
-class Solution {
-    public int reverse(int x) {
+class ReverseNumber {
+    public static int reverse(int x) {
         int temp = x;
         long rev = 0;
 
@@ -31,7 +18,6 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution s = new Solution();
-        System.out.println(s.reverse(-12300));
+        System.out.println(reverse(-12300));
     }
 }

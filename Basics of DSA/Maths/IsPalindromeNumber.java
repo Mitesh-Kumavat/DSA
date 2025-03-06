@@ -12,8 +12,8 @@
  * Input: 10
  * Output: false
  */
-public class Solution {
-    public boolean isPalindrome(int x) {
+public class IsPalindromeNumber {
+    public static boolean isPalindrome(int x) {
         int temp = x;
         long rev = 0;
         while (x != 0) {
@@ -29,7 +29,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        Solution s = new Solution();
-        System.out.println(s.isPalindrome(000));
+        System.out.println(isPalindrome(000));
     }
 }
