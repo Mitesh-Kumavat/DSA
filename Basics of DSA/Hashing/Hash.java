@@ -19,7 +19,6 @@ Explanation:10 occurs 3 times in the array
 */
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class Hash {
 
