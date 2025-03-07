@@ -1,3 +1,5 @@
+//  Date: 06-03-2025
+//  Leetcode daily challenges
 package LeetCode_Daily;
 
 import java.util.Arrays;
@@ -7,8 +9,7 @@ import java.util.Set;
 
 public class FindMissingAndRepeating {
 
-    // optimized approach(Usinf Frequency Arr) -> i have copied it from leetcode's
-    // submissions
+    // optimized approach(Usinf Frequency Arr) -> i have copied it from leetcode's submissions
     public int[] findMissingAndRepeatedValuesUsingFrequencyArr(int[][] grid) {
         int n = grid.length;
         int size = n * n;
@@ -30,6 +31,7 @@ public class FindMissingAndRepeating {
 
         return new int[] { repeated, missing };
     }
+
 
     // This is another approach using hashset
     public int[] findMissingAndRepeatedValuesUsingHashSet(int[][] grid) {
@@ -56,9 +58,9 @@ public class FindMissingAndRepeating {
         return new int[] { repeated, missing };
     }
 
+
     // This is the first time i have solved any leetcode's daily problem,
     // I know its not the best approach that i have used but still i have done this 😅
-
     public static int[] findMissingAndRepeatedValues(int[][] grid) {
         int[] ans = new int[2];
         HashMap<Integer, Integer> hm = new HashMap<>();
