@@ -1,3 +1,5 @@
+package Basics_of_DSA.Maths;
+
 /*
  * Determine whether an integer is a palindrome. Do this without extra space.
  * Leetcode:https://leetcode.com/problems/palindrome-number/

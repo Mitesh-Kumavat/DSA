@@ -1,3 +1,4 @@
+package Basics_of_DSA.Hashing;
 /* 
 Example: 1
 Input: arr[] = {10,5,10,15,10,5};
