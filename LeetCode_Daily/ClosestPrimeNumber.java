@@ -3,18 +3,18 @@
  * Date: 07-03-25
  */
 
-package LeetCode_Daily;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
 public class ClosestPrimeNumber {
 
     public static boolean isPrime(int n) {
-        if (n <= 1) return false;
+        if (n <= 1)
+            return false;
 
         for (int i = 2; i <= Math.sqrt(n); i++) {
-            if (n % i == 0)  return false;
+            if (n % i == 0)
+                return false;
         }
 
         return true;
@@ -38,7 +38,7 @@ public class ClosestPrimeNumber {
             ans[0] = arr.get(0);
             ans[1] = arr.get(1);
             int diff = ans[0] - ans[1];
-            
+
             for (int i = 0; i <= arr.size() - 2; i++) {
                 if (diff < arr.get(i) - arr.get(i + 1)) {
                     ans[0] = arr.get(i);
