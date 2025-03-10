@@ -26,6 +26,8 @@ Below are the topics I am learning along with links to my implementations:
 - [Largest Element](Array/LargestElement.java)
 - [Second Largest Element](Array/SecondLargest.java)
 - [Remove Duplicates from the Array](Array/RemoveDuplicates.java)
+- [Rotate the Array by k elements](Array/RotateArray.java)
+- [Find the Union of the two sorted arrays](Array/UnionArray.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
