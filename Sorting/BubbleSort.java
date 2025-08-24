@@ -8,19 +8,17 @@ import java.util.Arrays;
 public class BubbleSort {
 
     public static void bubbleSortAlgo(int[] arr, int n) {
-
-        for (int i = n - 1; i >= 1; i--) {
-            int didSwap = 0;
-
-            for (int j = 0; j <= i - 1; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    didSwap = 1;
-                    int temp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
+        for (int i = 0; i < arr.length - 1; i++) {
+            boolean didSwap = false;
+            for (int j = i; j < arr.length; j++) {
+                if (arr[i] > arr[j]) {
+                    int temp = arr[i];
+                    arr[i] = arr[j];
+                    arr[j] = temp;
+                    didSwap = true;
                 }
             }
-            if (didSwap == 0) {
+            if (!didSwap) {
                 break;
             }
         }
@@ -28,7 +26,8 @@ public class BubbleSort {
 
     public static void main(String[] args) {
         int[] arr = { 12, 2, 53, 63, 34, 6, 78, 3, 5 };
-        bubbleSortAlgo(arr, arr.length);
-        System.out.println(Arrays.toString(arr));
+        int[] arr2 = { 1, 3, 5 };
+        bubbleSortAlgo(arr2, arr2.length);
+        System.out.println(Arrays.toString(arr2));
     }
 }
