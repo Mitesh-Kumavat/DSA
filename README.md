@@ -31,6 +31,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Intersection of the two sorted arrays](Array/IntersectionArray.java)
 - [Missing number in the array](Array/MissingNumber.java)
 - [Maximum Consecutive Ones](Array/MaxOnes.java)
+- [Single Number](Array/SingleNumber.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
@@ -45,6 +46,7 @@ Below are the topics I am learning along with links to my implementations:
 ### 🔹 Daily LeetCode Challenges
 - [6 March 2025 - Find Missing and Repeating Numbers](Leetcode_Daily/FindMissingAndRepeating.java)
 - [7 March 2025 - Closest Prime Numbers in Range](Leetcode_Daily/ClosestPrimeNumber.java)
+- [26 August 2025 - Maximum Area of Longest Diagonal](Leetcode_Daily/AreaOfMaxDiagonal.java)
 
 ---
 
