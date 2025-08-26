@@ -28,6 +28,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Remove Duplicates from the Array](Array/RemoveDuplicates.java)
 - [Rotate the Array by k elements](Array/RotateArray.java)
 - [Find the Union of the two sorted arrays](Array/UnionArray.java)
+- [Find the Intersection of the two sorted arrays](Array/IntersectionArray.javas)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
