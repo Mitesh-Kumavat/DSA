@@ -32,6 +32,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Missing number in the array](Array/MissingNumber.java)
 - [Maximum Consecutive Ones](Array/MaxOnes.java)
 - [Single Number](Array/SingleNumber.java)
+- [Longest Subarray With Sum K](Array/LongestSubArray.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
