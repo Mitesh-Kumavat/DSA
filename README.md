@@ -34,6 +34,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Single Number](Array/SingleNumber.java)
 - [Longest Subarray With Sum K](Array/LongestSubArray.java)
 - [Two Sum](Array/TwoSum.java)
+- [Sort Colors (Sort array that contains 0,1,2 only)](Array/SortColors.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
