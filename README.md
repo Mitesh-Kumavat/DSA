@@ -35,13 +35,15 @@ Below are the topics I am learning along with links to my implementations:
 - [Longest Subarray With Sum K](Array/LongestSubArray.java)
 - [Two Sum](Array/TwoSum.java)
 - [Sort Colors (Sort array that contains 0,1,2 only)](Array/SortColors.java)
+- [Majority Element from the array](Array/MajorityElement.java)
+- [Kadane's Algorithm - subarray Max subarray with sum k](Array/KadanesAlgo.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
 - [Merge Sort](Sorting/MergeSort.java)
 - [Bubble Sort](Sorting/BubbleSort.java)
 - [Insertion Sort](Sorting/InsertionSort.java)
-- [Selection Sort](Sorting/Selection.java)
+- [Selection Sort](Sorting/SelectionSort.java)
 
 ### 🔹 Recursion
 - [All Basic Recursion Problems](Basics_of_DSA/Recursion/Recursion.java)
