@@ -33,6 +33,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Maximum Consecutive Ones](Array/MaxOnes.java)
 - [Single Number](Array/SingleNumber.java)
 - [Longest Subarray With Sum K](Array/LongestSubArray.java)
+- [Two Sum](Array/TwoSum.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
