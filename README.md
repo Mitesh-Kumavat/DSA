@@ -37,6 +37,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Sort Colors (Sort array that contains 0,1,2 only)](Array/SortColors.java)
 - [Majority Element from the array](Array/MajorityElement.java)
 - [Kadane's Algorithm - subarray Max subarray with sum k](Array/KadanesAlgo.java)
+- [Stock Buy and Sell](Array/StockBuySell.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
