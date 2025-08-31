@@ -39,6 +39,8 @@ Below are the topics I am learning along with links to my implementations:
 - [Kadane's Algorithm - subarray Max subarray with sum k](Array/KadanesAlgo.java)
 - [Stock Buy and Sell](Array/StockBuySell.java)
 - [Rearrange the array in alternating positive and negative](Array/RearrangeArray.java)
+- [Next Permutation](Array/NextPermutation.java)
+- [Leaders in Array](Array/LeadersInArray.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
