@@ -41,6 +41,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Rearrange the array in alternating positive and negative](Array/RearrangeArray.java)
 - [Next Permutation](Array/NextPermutation.java)
 - [Leaders in Array](Array/LeadersInArray.java)
+- [Longest Consecutive Sequence in an Array](Array/LongestConsecutive.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
