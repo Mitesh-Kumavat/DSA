@@ -42,6 +42,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Next Permutation](Array/NextPermutation.java)
 - [Leaders in Array](Array/LeadersInArray.java)
 - [Longest Consecutive Sequence in an Array](Array/LongestConsecutive.java)
+- [Set Matrix Zerors](Array/SetZeros.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
