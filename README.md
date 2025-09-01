@@ -45,6 +45,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Set Matrix Zerors](Array/SetZeros.java)
 - [Rotate Matrix 90 deg](Array/RotateMatrix.java)
 - [Spiral Matrix](Array/SpiralMatrix.java)
+- [Count subarray with sum K](Array/CountSubArray.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
