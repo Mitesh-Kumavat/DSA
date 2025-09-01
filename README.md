@@ -43,6 +43,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Leaders in Array](Array/LeadersInArray.java)
 - [Longest Consecutive Sequence in an Array](Array/LongestConsecutive.java)
 - [Set Matrix Zerors](Array/SetZeros.java)
+- [Rotate Matrix 90 deg](Array/RotateMatrix.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
