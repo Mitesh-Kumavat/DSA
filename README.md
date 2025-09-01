@@ -44,6 +44,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Longest Consecutive Sequence in an Array](Array/LongestConsecutive.java)
 - [Set Matrix Zerors](Array/SetZeros.java)
 - [Rotate Matrix 90 deg](Array/RotateMatrix.java)
+- [Spiral Matrix](Array/SpiralMatrix.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
