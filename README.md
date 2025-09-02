@@ -47,6 +47,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Spiral Matrix](Array/SpiralMatrix.java)
 - [Count subarray with sum K](Array/CountSubArray.java)
 - [Pascal's Traingle](Array/PascalTriangle.java)
+- [Majority Element II ](Array/MajorityElement2.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
