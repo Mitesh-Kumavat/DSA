@@ -48,6 +48,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Count subarray with sum K](Array/CountSubArray.java)
 - [Pascal's Traingle](Array/PascalTriangle.java)
 - [Majority Element II ](Array/MajorityElement2.java)
+- [3 Sum](Array/ThreeSum.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
