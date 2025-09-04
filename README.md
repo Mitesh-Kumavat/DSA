@@ -49,6 +49,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Pascal's Traingle](Array/PascalTriangle.java)
 - [Majority Element II ](Array/MajorityElement2.java)
 - [3 Sum](Array/ThreeSum.java)
+- [4 Sum](Array/FourSum.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
