@@ -50,6 +50,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Majority Element II ](Array/MajorityElement2.java)
 - [3 Sum](Array/ThreeSum.java)
 - [4 Sum](Array/FourSum.java)
+- [Longest Sub Array with sum 0](Array/LongestSubArrWithSum0.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
