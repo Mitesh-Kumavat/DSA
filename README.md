@@ -51,6 +51,7 @@ Below are the topics I am learning along with links to my implementations:
 - [3 Sum](Array/ThreeSum.java)
 - [4 Sum](Array/FourSum.java)
 - [Longest Sub Array with sum 0](Array/LongestSubArrWithSum0.java)
+- [Longest Sub Array with given XOR k](Array/CountSubArrayWithXor.java)
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
