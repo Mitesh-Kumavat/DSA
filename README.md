@@ -53,6 +53,9 @@ Below are the topics I am learning along with links to my implementations:
 - [Longest Sub Array with sum 0](Array/LongestSubArrWithSum0.java)
 - [Longest Sub Array with given XOR k](Array/CountSubArrayWithXor.java)
 - [Merge Overlapping Sub-intervals](Array/MergeIntervals.java)
+- [Merge 2 sorted arrays](Array/MergeArrays.java)
+- [Find the repeating and missing numbers](Array/repeatingAndMissing.java)
+
 
 ### 🔹 Sorting Algorithms
 - [Quick Sort](Sorting/QuickSort.java)
