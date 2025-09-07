@@ -1,4 +1,4 @@
-package Basics_of_DSA.Maths;
+package Basics.Maths;
 
 /*
  * Determine whether an integer is a palindrome. Do this without extra space.

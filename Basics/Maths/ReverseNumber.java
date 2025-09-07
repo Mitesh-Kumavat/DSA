@@ -1,4 +1,4 @@
-package Basics_of_DSA.Maths;
+package Basics.Maths;
 
 /*
  * Problem Statement: Given a 32-bit signed integer, reverse digits of an integer.

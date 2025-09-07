@@ -12,14 +12,18 @@ I solve problems on different platforms while maintaining well-structured code f
 Below are the topics I am learning along with links to my implementations:
 
 ### 🔹 Basics
-- [Hashing](Basics_of_DSA/Hashing/Hash.java)
-- [Maths Problem](Basics_of_DSA/Maths)
-- [Recursion Problem](Basics_of_DSA/Recursion)
+- [Hashing](Basics/Hashing/Hash.java)
+- [Maths Problems](Basics/Maths)
+- [Recursion Problems](Basics/Recursion/Recursion.java)
 
-### 🔹 Easy Problems List
-- [First Unique Character](Easy/first_unique.py)
-- [Three Consecutive Odds](Easy/ThreeOdd.java)
-- [Robot Return To Origin](Easy/RobotReturnOrigin.java)
+
+### 🔹 Sorting Algorithms
+- [Quick Sort](Sorting/QuickSort.java)
+- [Merge Sort](Sorting/MergeSort.java)
+- [Bubble Sort](Sorting/BubbleSort.java)
+- [Insertion Sort](Sorting/InsertionSort.java)
+- [Selection Sort](Sorting/SelectionSort.java)
+
 
 ### 🔹 Arrays
 - [Is Sorted and Rotated](Array/IsSorted.java)
@@ -57,21 +61,6 @@ Below are the topics I am learning along with links to my implementations:
 - [Find the repeating and missing numbers](Array/repeatingAndMissing.java)
 - [Container with most water](Array/ContainerWithMostWater.java)
 
-
-### 🔹 Sorting Algorithms
-- [Quick Sort](Sorting/QuickSort.java)
-- [Merge Sort](Sorting/MergeSort.java)
-- [Bubble Sort](Sorting/BubbleSort.java)
-- [Insertion Sort](Sorting/InsertionSort.java)
-- [Selection Sort](Sorting/SelectionSort.java)
-
-### 🔹 Recursion
-- [All Basic Recursion Problems](Basics_of_DSA/Recursion/Recursion.java)
-
-### 🔹 Daily LeetCode Challenges
-- [6 March 2025 - Find Missing and Repeating Numbers](Leetcode_Daily/FindMissingAndRepeating.java)
-- [7 March 2025 - Closest Prime Numbers in Range](Leetcode_Daily/ClosestPrimeNumber.java)
-- [26 August 2025 - Maximum Area of Longest Diagonal](Leetcode_Daily/AreaOfMaxDiagonal.java)
 
 ---
 

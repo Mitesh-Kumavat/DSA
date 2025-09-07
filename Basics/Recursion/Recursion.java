@@ -1,4 +1,4 @@
-package Basics_of_DSA.Recursion;
+package Basics.Recursion;
 
 public class Recursion {
 
