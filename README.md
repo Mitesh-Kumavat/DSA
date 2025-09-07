@@ -55,6 +55,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Merge Overlapping Sub-intervals](Array/MergeIntervals.java)
 - [Merge 2 sorted arrays](Array/MergeArrays.java)
 - [Find the repeating and missing numbers](Array/repeatingAndMissing.java)
+- [Container with most water](Array/ContainerWithMostWater.java)
 
 
 ### 🔹 Sorting Algorithms
