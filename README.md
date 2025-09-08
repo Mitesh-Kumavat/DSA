@@ -62,6 +62,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Container with most water](Array/ContainerWithMostWater.java)
 - [Count Inversions](Array/CountInversions.java)
 - [Reverse Pairs](Array/ReversePairs.java)
+- [Maximum Product Subarray](Array/MaxProduct.java)
 
 ---
 
