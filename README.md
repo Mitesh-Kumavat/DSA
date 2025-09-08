@@ -61,7 +61,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Find the repeating and missing numbers](Array/repeatingAndMissing.java)
 - [Container with most water](Array/ContainerWithMostWater.java)
 - [Count Inversions](Array/CountInversions.java)
-
+- [Reverse Pairs](Array/ReversePairs.java)
 
 ---
 
