@@ -64,6 +64,11 @@ Below are the topics I am learning along with links to my implementations:
 - [Reverse Pairs](Array/ReversePairs.java)
 - [Maximum Product Subarray](Array/MaxProduct.java)
 
+
+### 🔹 Binary Search
+- [Binary Search Algo](BinarySearch/BinarySearchCode.java)
+
+
 ---
 
 
