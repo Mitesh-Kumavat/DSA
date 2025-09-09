@@ -67,6 +67,7 @@ Below are the topics I am learning along with links to my implementations:
 
 ### 🔹 Binary Search
 - [Binary Search Algo](BinarySearch/BinarySearchCode.java)
+- [Implement Lower Bound](BinarySearch/LowerBound.java)
 
 
 ---
