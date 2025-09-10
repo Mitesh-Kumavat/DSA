@@ -71,6 +71,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Implement Upper Bound](BinarySearch/UpperBound.java)
 - [Search Insert Position](BinarySearch/SearchInsertPos.java)
 - [Floor/Ceil in Sorted Array](BinarySearch/FloorCeil.java)
+- [Find the first or last occurrence of number in a sorted array](BinarySearch/FindOccurrence.java)
 
 
 ---
