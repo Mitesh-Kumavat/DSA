@@ -74,6 +74,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Find the first or last occurrence of number in a sorted array](BinarySearch/FindOccurrence.java)
 - [Search element in rotated Array I](BinarySearch/SearchInRotatedArr1.java)
 - [Search element in rotated Array II](BinarySearch/SearchInRotatedArr2.java)
+- [Minimum in rotated sorted Array](BinarySearch/MinimumInRotatedSorted.java)
 
 
 ---
