@@ -75,6 +75,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Search element in rotated Array I](BinarySearch/SearchInRotatedArr1.java)
 - [Search element in rotated Array II](BinarySearch/SearchInRotatedArr2.java)
 - [Minimum in rotated sorted Array](BinarySearch/MinimumInRotatedSorted.java)
+- [Count How many times array been rotated](BinarySearch/CountArrayRotation.java)
 
 
 ---
