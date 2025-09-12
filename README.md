@@ -79,6 +79,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Single element in sorted Array](BinarySearch/SingleElement.java)
 - [Find peak element](BinarySearch/PeakElement.java)
 - [Finding Sqrt of a number using Binary Search](BinarySearch/FindSqrt.java)
+- [Finding n-th root of a number](BinarySearch/FindNthRoot.java)
 
 
 ---
