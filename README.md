@@ -81,6 +81,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Finding Sqrt of a number using Binary Search](BinarySearch/FindSqrt.java)
 - [Finding n-th root of a number](BinarySearch/FindNthRoot.java)
 - [Koko eating bananas](BinarySearch/KokoEating.java)
+- [Find the smallest Divisor](BinarySearch/SmallestDivisor.java)
 
 
 ---
