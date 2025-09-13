@@ -80,6 +80,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Find peak element](BinarySearch/PeakElement.java)
 - [Finding Sqrt of a number using Binary Search](BinarySearch/FindSqrt.java)
 - [Finding n-th root of a number](BinarySearch/FindNthRoot.java)
+- [Koko eating bananas](BinarySearch/KokoEating.java)
 
 
 ---
