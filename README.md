@@ -83,6 +83,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Koko eating bananas](BinarySearch/KokoEating.java)
 - [Minimum days to make M bouquets](BinarySearch/MinDaysBouquets.java)
 - [Find the smallest Divisor](BinarySearch/SmallestDivisor.java)
+- [Capacity To Ship Packages Within D Days](BinarySearch/ShipCapicity.java)
 
 
 ---
