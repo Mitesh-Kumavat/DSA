@@ -41,8 +41,8 @@ public class FindSqrt {
         int high = n;
 
         while (low <= high) {
-            int mid = (low + high) / 2;
-            int value = mid * mid;
+            int mid = low + (high - low) / 2;
+            long value = (long) mid * (long) mid;
 
             if (value <= n) { // this might be our possible answer
                 ans = mid; // store the answer
