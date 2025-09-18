@@ -85,6 +85,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Find the smallest Divisor](BinarySearch/SmallestDivisor.java)
 - [Capacity To Ship Packages Within D Days](BinarySearch/ShipCapicity.java)
 - [Kth Missing Positive Number](BinarySearch/KthMissingNumber.java)
+- [Aggressive cows](BinarySearch/AggressiveCows.java)
 
 
 ---
