@@ -20,10 +20,10 @@ public class FloorCeil {
             // maybe an answer
             if (arr[mid] <= x) {
                 ans = arr[mid];
-                // look for smaller index on the left
+                // look for smaller index on the right
                 low = mid + 1;
             } else {
-                high = mid - 1; // look on the right
+                high = mid - 1; // look on the left
             }
         }
         return ans;

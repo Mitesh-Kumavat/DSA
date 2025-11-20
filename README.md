@@ -86,6 +86,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Capacity To Ship Packages Within D Days](BinarySearch/ShipCapicity.java)
 - [Kth Missing Positive Number](BinarySearch/KthMissingNumber.java)
 - [Aggressive cows](BinarySearch/AggressiveCows.java)
+- [Allocate Minimum Number of Books](BinarySearch/AllocateBooks.java)
 
 
 ---
