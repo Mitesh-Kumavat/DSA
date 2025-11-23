@@ -16,16 +16,16 @@ Below are the topics I am learning along with links to my implementations:
 - [Maths Problems](Basics/Maths)
 - [Recursion Problems](Basics/Recursion/Recursion.java)
 
-
 ### 🔹 Sorting Algorithms
+
 - [Quick Sort](Sorting/QuickSort.java)
 - [Merge Sort](Sorting/MergeSort.java)
 - [Bubble Sort](Sorting/BubbleSort.java)
 - [Insertion Sort](Sorting/InsertionSort.java)
 - [Selection Sort](Sorting/SelectionSort.java)
 
-
 ### 🔹 Arrays
+
 - [Is Sorted and Rotated](Array/IsSorted.java)
 - [Largest Element](Array/LargestElement.java)
 - [Second Largest Element](Array/SecondLargest.java)
@@ -64,8 +64,8 @@ Below are the topics I am learning along with links to my implementations:
 - [Reverse Pairs](Array/ReversePairs.java)
 - [Maximum Product Subarray](Array/MaxProduct.java)
 
-
 ### 🔹 Binary Search
+
 - [Binary Search Algo](BinarySearch/BinarySearchCode.java)
 - [Implement Lower Bound](BinarySearch/LowerBound.java)
 - [Implement Upper Bound](BinarySearch/UpperBound.java)
@@ -87,12 +87,13 @@ Below are the topics I am learning along with links to my implementations:
 - [Kth Missing Positive Number](BinarySearch/KthMissingNumber.java)
 - [Aggressive cows](BinarySearch/AggressiveCows.java)
 - [Allocate Minimum Number of Books](BinarySearch/AllocateBooks.java)
-
+- [Split Array Largest Sum](BinarySearch/SplitArrayLargestSum.java)
+- [Painter's partition](BinarySearch/PaintersPartition.java)
 
 ---
 
-
 ## 🏆 Goals & Progress
+
 - 📌 **DSA Practice:** Solve at least 3 problems a day (Easy, Medium, Hard).
 - 📌 **Contests:** Participate in LeetCode contests every Sunday.
 - 📌 **Efficiency:** Improve problem-solving speed & understanding of algorithms.
@@ -101,6 +102,7 @@ Below are the topics I am learning along with links to my implementations:
 ---
 
 ## 💡 How to Use This Repository
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/mitesh-kumavat/DSA.git
@@ -111,4 +113,3 @@ Below are the topics I am learning along with links to my implementations:
 ---
 
 Happy Coding! 🚀
-

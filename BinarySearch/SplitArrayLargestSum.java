@@ -1,3 +1,5 @@
+package BinarySearch;
+
 // LeetCode: Split Array Largest Sum
 // Problem: Split array into k subarrays such that the maximum subarray sum is minimized.
 // Solution: Binary Search on Answer + Greedy split count.
