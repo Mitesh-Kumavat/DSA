@@ -89,6 +89,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Allocate Minimum Number of Books](BinarySearch/AllocateBooks.java)
 - [Split Array Largest Sum](BinarySearch/SplitArrayLargestSum.java)
 - [Painter's partition](BinarySearch/PaintersPartition.java)
+- [Minimise Maximum Distance between Gas Stations](BinarySearch/DistanceBetweenGasStations.java)
 
 ---
 
