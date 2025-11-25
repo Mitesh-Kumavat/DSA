@@ -90,6 +90,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Split Array Largest Sum](BinarySearch/SplitArrayLargestSum.java)
 - [Painter's partition](BinarySearch/PaintersPartition.java)
 - [Minimise Maximum Distance between Gas Stations](BinarySearch/DistanceBetweenGasStations.java)
+- [Median of 2 sorted arrays](BinarySearch/MedianOfSortedArray.java)
 
 ---
 
