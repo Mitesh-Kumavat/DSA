@@ -9,9 +9,11 @@ I solve problems on different platforms while maintaining well-structured code f
 ---
 
 ## 📚 Topics & Solutions
+
 Below are the topics I am learning along with links to my implementations:
 
 ### 🔹 Basics
+
 - [Hashing](Basics/Hashing/Hash.java)
 - [Maths Problems](Basics/Maths)
 - [Recursion Problems](Basics/Recursion/Recursion.java)
@@ -89,8 +91,9 @@ Below are the topics I am learning along with links to my implementations:
 - [Allocate Minimum Number of Books](BinarySearch/AllocateBooks.java)
 - [Split Array Largest Sum](BinarySearch/SplitArrayLargestSum.java)
 - [Painter's partition](BinarySearch/PaintersPartition.java)
-- [Minimise Maximum Distance between Gas Stations](BinarySearch/DistanceBetweenGasStations.java)
-- [Median of 2 sorted arrays](BinarySearch/MedianOfSortedArray.java)
+- [Minimise Maximum Distance between Gas Stations](BinarySearch/DistanceBetweenGasStations.java) <!-- Revise this again | Hard -->
+- [Median of 2 sorted arrays](BinarySearch/MedianOfSortedArray.java) <!-- Revise this again | Hard -->
+- [Kth element of 2 sorted arrays](BinarySearch/KthElOfSortedArr.java) <!-- Revise this again | Hard-->
 
 ---
 
