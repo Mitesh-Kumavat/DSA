@@ -94,6 +94,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Minimise Maximum Distance between Gas Stations](BinarySearch/DistanceBetweenGasStations.java) <!-- Revise this again | Hard -->
 - [Median of 2 sorted arrays](BinarySearch/MedianOfSortedArray.java) <!-- Revise this again | Hard -->
 - [Kth element of 2 sorted arrays](BinarySearch/KthElOfSortedArr.java) <!-- Revise this again | Hard-->
+- [Find the row with maximum number of 1's](BinarySearch/FindRowWithMaxOnes.java)
 
 ---
 
