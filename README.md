@@ -95,6 +95,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Median of 2 sorted arrays](BinarySearch/MedianOfSortedArray.java) <!-- Revise this again | Hard -->
 - [Kth element of 2 sorted arrays](BinarySearch/KthElOfSortedArr.java) <!-- Revise this again | Hard-->
 - [Find the row with maximum number of 1's](BinarySearch/FindRowWithMaxOnes.java)
+- [Search in a 2D matrix](BinarySearch/SearchIn2DMatrix.java)
 
 ---
 
