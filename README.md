@@ -98,6 +98,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Search in a 2D matrix](BinarySearch/SearchIn2DMatrix.java)
 - [Search in a 2D matrix II](BinarySearch/SearchIn2DMatrix2.java)
 - [Find a Peak Element II](BinarySearch/FindPeakElement2.java)
+- [Find a Median in 2D Row wise Sorted Array](BinarySearch/FindMedian2DArr.java) <!-- Revise this again | Hard-->
 
 ---
 
