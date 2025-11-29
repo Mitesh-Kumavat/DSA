@@ -100,6 +100,10 @@ Below are the topics I am learning along with links to my implementations:
 - [Find a Peak Element II](BinarySearch/FindPeakElement2.java)
 - [Find a Median in 2D Row wise Sorted Array](BinarySearch/FindMedian2DArr.java) <!-- Revise this again | Hard-->
 
+### 🔹 String
+
+- [Remove outermost Paranthesis](String/RemoveOuterParanthesis.java)
+
 ---
 
 ## 🏆 Goals & Progress
