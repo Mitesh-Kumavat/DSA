@@ -105,6 +105,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Remove outermost Paranthesis](String/RemoveOuterParanthesis.java)
 - [Reverse Words in String](String/ReverseWordsInString.java)
 - [Largest Odd number in String](String/LargestOddNumberInString.java)
+- [Longest Common Prefix](String/LongestCommonPrefix.java)
 
 ---
 
