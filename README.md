@@ -109,6 +109,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Isomorphic Strings](String/IsomorphicStrings.java)
 - [check whether one string is a rotation of another](String/CheckRotation.java)
 - [Valid Anagram](String/ValidAnagram.java)
+- [Sort Characters by Frequency](String/SortCharactersByFrequency.java)<!-- Revise this again | Medium -->
 
 ---
 
