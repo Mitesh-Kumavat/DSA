@@ -110,6 +110,7 @@ Below are the topics I am learning along with links to my implementations:
 - [check whether one string is a rotation of another](String/CheckRotation.java)
 - [Valid Anagram](String/ValidAnagram.java)
 - [Sort Characters by Frequency](String/SortCharactersByFrequency.java)<!-- Revise this again | Medium -->
+- [Maximum Nesting Depth of the Parentheses](String/MaximumNestingDepth.java) 
 
 ---
 
