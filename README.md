@@ -111,6 +111,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Valid Anagram](String/ValidAnagram.java)
 - [Sort Characters by Frequency](String/SortCharactersByFrequency.java)<!-- Revise this again | Medium -->
 - [Maximum Nesting Depth of the Parentheses](String/MaximumNestingDepth.java) 
+- [Roman to Integer](String/RomanToInteger.java) 
 
 ---
 
