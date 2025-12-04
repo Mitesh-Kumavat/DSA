@@ -116,6 +116,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Longest Palindromic Substring](String/LongestPalindromicSubstring.java)
 - [Count K Distinct Substrings](String/CountKDistinctSubstrings.java)
 - [Count Collisions on a Road](String/CountCollisionsOnRoad.java)
+- [Sum Of Beauty Of All Substring](String/SumOfBeautyOfAllSubstring.java)
 
 ---
 
