@@ -115,6 +115,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Implement Atoi](String/ImplementAtoi.java)
 - [Longest Palindromic Substring](String/LongestPalindromicSubstring.java)
 - [Count K Distinct Substrings](String/CountKDistinctSubstrings.java)
+- [Count Collisions on a Road](String/CountCollisionsOnRoad.java)
 
 ---
 
