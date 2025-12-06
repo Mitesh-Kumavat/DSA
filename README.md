@@ -123,6 +123,7 @@ Below are the topics I am learning along with links to my implementations:
 
 - [Implementation of Singly Linked List](LinkedList/SinglyLinkedList.java)
 - [Deletion in Singly Linked List](LinkedList/DeleteInSinglyLinkedList.java)
+- [Insertion in Singly Linked List](LinkedList/InsertInSinglyLinkedList.java)
 
 ---
 
