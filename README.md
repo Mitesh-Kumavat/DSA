@@ -122,10 +122,11 @@ Below are the topics I am learning along with links to my implementations:
 ### 🔹 Linked List
 
 - [Implementation of Singly Linked List](LinkedList/SinglyLinkedList.java)
+- [Deletion in Singly Linked List](LinkedList/DeleteInSinglyLinkedList.java)
 
 ---
 
-## 🏆 Goals & Progress
+## 🏆 Goals & Progress  
 
 - 📌 **DSA Practice:** Solve at least 3 problems a day (Easy, Medium, Hard).
 - 📌 **Contests:** Participate in LeetCode contests every Sunday.
