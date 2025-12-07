@@ -125,10 +125,11 @@ Below are the topics I am learning along with links to my implementations:
 - [Deletion in Singly Linked List](LinkedList/DeleteInSinglyLinkedList.java)
 - [Insertion in Singly Linked List](LinkedList/InsertInSinglyLinkedList.java)
 - [Implementation of Doubly Linked List](LinkedList/DoublyLinkedList.java)
+- [Deletion in Doubly Linked List](LinkedList/DeleteInDoublyLinkedList.java)
 
 ---
 
-## 🏆 Goals & Progress  
+## 🏆 Goals & Progress
 
 - 📌 **DSA Practice:** Solve at least 3 problems a day (Easy, Medium, Hard).
 - 📌 **Contests:** Participate in LeetCode contests every Sunday.
