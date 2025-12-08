@@ -126,6 +126,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Insertion in Singly Linked List](LinkedList/InsertInSinglyLinkedList.java)
 - [Implementation of Doubly Linked List](LinkedList/DoublyLinkedList.java)
 - [Deletion in Doubly Linked List](LinkedList/DeleteInDoublyLinkedList.java)
+- [Insertion in Doubly Linked List](LinkedList/InsertionInDLL.java)
 
 ---
 
