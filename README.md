@@ -127,6 +127,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Implementation of Doubly Linked List](LinkedList/DoublyLinkedList.java)
 - [Deletion in Doubly Linked List](LinkedList/DeleteInDoublyLinkedList.java)
 - [Insertion in Doubly Linked List](LinkedList/InsertionInDLL.java)
+- [Reverse a Singly Linked List](LinkedList/ReverseSinglyLinkedList.java)
 - [Reverse a Doubly Linked List](LinkedList/ReverseDoublyLinkedList.java)
 
 ---
