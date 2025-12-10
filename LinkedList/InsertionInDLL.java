@@ -1,18 +1,17 @@
 package LinkedList;
 
-class Node {
-    int data;
-    Node prev;
-    Node next;
-
-    Node(int data) {
-        this.data = data;
-        this.prev = null;
-        this.next = null;
-    }
-}
-
 public class InsertionInDLL {
+    public static class Node {
+        int data;
+        Node prev;
+        Node next;
+
+        Node(int data) {
+            this.data = data;
+            this.prev = null;
+            this.next = null;
+        }
+    }
 
     public static Node insertBeforeHead(Node head, int data) {
         if (head == null) {

@@ -131,6 +131,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Reverse a Doubly Linked List](LinkedList/ReverseDoublyLinkedList.java)
 - [Detect Cycle in a Linked List](LinkedList/DetectCycle.java)
 - [Find the starting node of the cycle in a Linked List](LinkedList/StartNodeOfCycle.java)
+- [Find the length of loop in a Linked List](LinkedList/LengthOfLoop.java)
 
 ---
 
