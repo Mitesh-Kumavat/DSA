@@ -4,6 +4,18 @@ import java.util.Stack;
 
 public class ReverseDoublyLinkedList {
 
+    public static class Node {
+        int data;
+        Node next;
+        Node prev;
+
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+            this.prev = null;
+        }
+    }
+
     public static Node printList(Node head) {
         Node current = head;
         while (current != null) {

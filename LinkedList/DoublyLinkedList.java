@@ -1,18 +1,18 @@
 package LinkedList;
 
-class Node {
-    int data;
-    Node next;
-    Node prev;
-
-    Node(int data) {
-        this.data = data;
-        this.next = null;
-        this.prev = null;
-    }
-}
-
 public class DoublyLinkedList {
+
+    public static class Node {
+        int data;
+        Node next;
+        Node prev;
+
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+            this.prev = null;
+        }
+    }
 
     public static void printDLL(Node head) {
         Node current = head;
@@ -20,7 +20,7 @@ public class DoublyLinkedList {
             System.out.print(current.data + " ");
             current = current.next;
         }
-        System.out.println(); 
+        System.out.println();
     }
 
     public static Node convertArrToDLL(int[] arr) {

@@ -2,17 +2,17 @@ package LinkedList;
 
 import java.util.HashMap;
 
-class Node {
-    int data;
-    Node next;
-
-    Node(int data) {
-        this.data = data;
-        this.next = null;
-    }
-}
-
 public class StartNodeOfCycle {
+
+    public static class Node {
+        int data;
+        Node next;
+
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+        }
+    }
 
     /**
      * Approach 1: Using HashMap
