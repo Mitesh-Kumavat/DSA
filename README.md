@@ -135,6 +135,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Check if Linked List is Palindrome](LinkedList/IsPalindrome.java)
 - [Odd Even Linked List](LinkedList/OddEvenLinkedList.java)
 - [Remove Nth Node From End of List](LinkedList/RemoveNthFromEnd.java)
+- [Delete the middle node of a Linked List](LinkedList/DeleteMiddleNode.java)
 
 ---
 
