@@ -136,6 +136,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Odd Even Linked List](LinkedList/OddEvenLinkedList.java)
 - [Remove Nth Node From End of List](LinkedList/RemoveNthFromEnd.java)
 - [Delete the middle node of a Linked List](LinkedList/DeleteMiddleNode.java)
+- [Merge two sorted Linked Lists](LinkedList/MergeTwoSortedLinkedLists.java)
 - [Sort a Linked List](LinkedList/SortLinkedList.java)
 
 ---
