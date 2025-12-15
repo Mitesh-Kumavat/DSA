@@ -68,6 +68,8 @@ public class MergeTwoSortedLinkedLists {
 
     public static ListNode mergeTwoSortedListOptimal(ListNode l1, ListNode l2) {
 
+        // Edge cases:
+        // If one list is empty, return the other directly
         if (l1 == null) {
             return l2;
         }
@@ -76,28 +78,49 @@ public class MergeTwoSortedLinkedLists {
             return l1;
         }
 
+        /*
+         * Dummy node technique:
+         * ---------------------
+         * - dummy helps avoid handling head separately
+         * - temp is used to build the merged list step by step
+         */
         ListNode dummy = new ListNode(0);
         ListNode temp = dummy;
 
+        /*
+         * Main merging loop:
+         * ------------------
+         * Compare nodes from both lists
+         * Attach the smaller one to temp
+         * Move forward in that list
+         */
         while (l1 != null && l2 != null) {
+
             if (l1.val < l2.val) {
-                temp.next = l1;
-                l1 = l1.next;
+                temp.next = l1; // link smaller node
+                l1 = l1.next; // move in l1
             } else {
-                temp.next = l2;
-                l2 = l2.next;
+                temp.next = l2; // link smaller node
+                l2 = l2.next; // move in l2
             }
-            temp = temp.next;
+
+            temp = temp.next; // move merged list pointer
         }
 
+        /*
+         * Attach remaining nodes:
+         * -----------------------
+         * Only ONE of l1 or l2 can be non-null here
+         * Directly connect remaining part
+         */
         if (l1 != null) {
             temp.next = l1;
         } else {
             temp.next = l2;
         }
 
+        // dummy.next is the real head of merged sorted list
         return dummy.next;
-
     }
 
     public static void main(String[] args) {
