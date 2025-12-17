@@ -140,6 +140,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Sort a Linked List](LinkedList/SortLinkedList.java)
 - [Sort 0s, 1s and 2s in a Linked List](LinkedList/Sort012InLinkedList.java)
 - [Intersection point of two Linked Lists](LinkedList/IntersectionPoint.java)
+- [Add 1 to a number represented as Linked List](LinkedList/AddOneToLinkedList.java)
 
 ---
 
