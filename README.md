@@ -143,6 +143,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Add 1 to a number represented as Linked List](LinkedList/AddOneToLinkedList.java)
 - [Add 2 numbers in LL](LinkedList/AddTwoToLinkedList.java)
 - [Delete all occurences of a given key in a Doubly Linked List](LinkedList/DeleteAllOccurrences.java)
+- [Swap Nodes in a Linked List](LinkedList/SwapNodes.java)
 
 ---
 
