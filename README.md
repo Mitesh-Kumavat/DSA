@@ -145,6 +145,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Delete all occurences of a given key in a Doubly Linked List](LinkedList/DeleteAllOccurrences.java)
 - [Swap Nodes in a Linked List](LinkedList/SwapNodes.java)
 - [Find all pairs with the given sum in a DLL](LinkedList/FindPairsWithGivenSum.java)
+- [Remove duplicates from a sorted Doubly Linked List](LinkedList/RemoveDuplicatesFromSortedList.java)
 
 ---
 
