@@ -146,6 +146,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Swap Nodes in a Linked List](LinkedList/SwapNodes.java)
 - [Find all pairs with the given sum in a DLL](LinkedList/FindPairsWithGivenSum.java)
 - [Remove duplicates from a sorted Doubly Linked List](LinkedList/RemoveDuplicatesFromSortedList.java)
+- [Reverse nodes in k group](LinkedList/ReverseNodesInKGroup.java)
 
 ---
 
