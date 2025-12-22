@@ -148,6 +148,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Remove duplicates from a sorted Doubly Linked List](LinkedList/RemoveDuplicatesFromSortedList.java)
 - [Reverse nodes in k group](LinkedList/ReverseNodesInKGroup.java)
 - [Rotate Linked List](LinkedList/RotateLinkedList.java)
+- [Flatten a Linked List](LinkedList/FlattenLinkedList.java)
 
 ---
 
