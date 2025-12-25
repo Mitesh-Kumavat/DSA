@@ -152,6 +152,9 @@ Below are the topics I am learning along with links to my implementations:
 - [Flatten a Linked List](LinkedList/FlattenLinkedList.java)
 - [Clone a Linked List with next and random pointer](LinkedList/CloneLinkedList.java)
 
+### 🔹 Recursion
+
+- [Power Function](Recursion/PowerFunction.java)  
 ---
 
 ## 🏆 Goals & Progress
