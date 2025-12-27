@@ -154,7 +154,8 @@ Below are the topics I am learning along with links to my implementations:
 
 ### 🔹 Recursion
 
-- [Power Function](Recursion/PowerFunction.java)  
+- [Power Function](Recursion/PowerFunction.java) 
+- [Generate Parenthesis](Recursion/GenerateParenthesis.java) 
 ---
 
 ## 🏆 Goals & Progress
