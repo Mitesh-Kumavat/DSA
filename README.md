@@ -157,6 +157,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Power Function](Recursion/PowerFunction.java) 
 - [Generate all binary strings of N bits](Recursion/GenerateBinaryStrings.java)
 - [Generate Parenthesis](Recursion/GenerateParenthesis.java) 
+- [Generate all subsets of a set](Recursion/GenerateSubsets.java)
 ---
 
 ## 🏆 Goals & Progress
