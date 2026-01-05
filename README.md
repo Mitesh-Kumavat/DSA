@@ -161,6 +161,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Count subseuquences that sum to K](Recursion/CountSubsequencesSumK.java)
 - [Combination Sum I](Recursion/CombinationSum1.java)
 - [Combination Sum II](Recursion/CombinationSum2.java)
+- [Subset Sum](Recursion/SubsetSum.java)
 
 ---
 
