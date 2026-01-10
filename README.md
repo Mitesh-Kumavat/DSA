@@ -154,9 +154,9 @@ Below are the topics I am learning along with links to my implementations:
 
 ### 🔹 Recursion
 
-- [Power Function](Recursion/PowerFunction.java) 
+- [Power Function](Recursion/PowerFunction.java)
 - [Generate all binary strings of N bits](Recursion/GenerateBinaryStrings.java)
-- [Generate Parenthesis](Recursion/GenerateParenthesis.java) 
+- [Generate Parenthesis](Recursion/GenerateParenthesis.java)
 - [Generate all subsets of a set](Recursion/GenerateSubsets.java)
 - [Count subseuquences that sum to K](Recursion/CountSubsequencesSumK.java)
 - [Combination Sum I](Recursion/CombinationSum1.java)
@@ -167,6 +167,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Letter Combinations of a Phone Number](Recursion/LetterCombinationsPhoneNumber.java)
 - [Palindrome Partitioning](Recursion/PalindromePartitioning.java)
 - [Word Search](Recursion/WordSearch.java)
+- [N-Queens Problem](Recursion/NQueens.java)
 
 ---
 
