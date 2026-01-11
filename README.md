@@ -168,6 +168,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Palindrome Partitioning](Recursion/PalindromePartitioning.java)
 - [Word Search](Recursion/WordSearch.java)
 - [N-Queens Problem](Recursion/NQueens.java)
+- [Rat in a Maze](Recursion/RatInMaze.java)
 
 ---
 
