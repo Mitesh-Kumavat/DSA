@@ -170,6 +170,10 @@ Below are the topics I am learning along with links to my implementations:
 - [N-Queens Problem](Recursion/NQueens.java)
 - [Rat in a Maze](Recursion/RatInMaze.java)
 
+### 🔹 Bit Manipulation
+
+- [Basics](BitManipulation/Basics.java)
+
 ---
 
 ## 🏆 Goals & Progress
