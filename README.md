@@ -119,6 +119,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Count K Distinct Substrings](String/CountKDistinctSubstrings.java)
 - [Count Collisions on a Road](String/CountCollisionsOnRoad.java)
 - [Sum Of Beauty Of All Substring](String/SumOfBeautyOfAllSubstring.java)
+- [Count And Say](String/CountAndSay.java)
 
 ### 🔹 Linked List
 
