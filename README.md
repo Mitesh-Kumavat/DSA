@@ -174,7 +174,7 @@ Below are the topics I am learning along with links to my implementations:
 ### 🔹 Bit Manipulation
 
 - [Basics](BitManipulation/Basics.java)
-- 
+- [Minimum Bit Flips to Convert A to B](BitManipulation/MinBitFlips.java)
 
 ---
 
