@@ -177,6 +177,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Minimum Bit Flips to Convert A to B](BitManipulation/MinBitFlips.java)
 - [Power Set](BitManipulation/PowerSet.java)
 - [Xor of Numbers from L to R](BitManipulation/XorFromLToR.java)
+- [Single Number II](BitManipulation/SingleNumber2.java)
 
 ---
 
