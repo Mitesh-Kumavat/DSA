@@ -178,6 +178,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Power Set](BitManipulation/PowerSet.java)
 - [Xor of Numbers from L to R](BitManipulation/XorFromLToR.java)
 - [Single Number II](BitManipulation/SingleNumber2.java)
+- [Single Number III](BitManipulation/SingleNumber3.java)
 
 ---
 
