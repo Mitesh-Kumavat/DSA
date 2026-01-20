@@ -182,6 +182,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Divide two integers without using multiplication, division and mod operator](BitManipulation/DivideTwoIntegers.java)
    #### Additional Maths Problems
    - [Print all divisors of a number](Basics/Maths/PrintAllDivisors.java)
+   - [Check if a number is prime](Basics/Maths/CheckPrime.java)
 
 
 
