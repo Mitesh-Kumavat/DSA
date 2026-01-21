@@ -180,6 +180,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Single Number II](BitManipulation/SingleNumber2.java)
 - [Single Number III](BitManipulation/SingleNumber3.java)
 - [Divide two integers without using multiplication, division and mod operator](BitManipulation/DivideTwoIntegers.java)
+- [Construct the minimal Bitwise array](BitManipulation/MinBitwiseArray.java)
    #### Additional Maths Problems
    - [Print all divisors of a number](Basics/Maths/PrintAllDivisors.java)
    - [Check if a number is prime](Basics/Maths/CheckPrime.java)
