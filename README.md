@@ -186,6 +186,11 @@ Below are the topics I am learning along with links to my implementations:
    - [Check if a number is prime](Basics/Maths/CheckPrime.java)
    - [Sieve of Eratosthenes](Basics/Maths/SieveOfEratosthenes.java)
 
+### 🔹 Stacks & Queues
+
+- [Implementation of Stack](Stack/ImplementStack.java)
+- [Implementation of Queue](Stack/ImplementQueue.java)
+
 
 
 
