@@ -192,6 +192,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Implementation of Queue](Stack/ImplementQueue.java)
 - [Implement stack using queues](Stack/StackUsingQueues.java)
 - [Implement queue using stacks](Stack/QueueUsingStacks.java)
+- [Balanced Paranthesis](Stack/BalancedParanthesis.java)
 
 
 
