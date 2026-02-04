@@ -194,6 +194,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Implement queue using stacks](Stack/QueueUsingStacks.java)
 - [Balanced Paranthesis](Stack/BalancedParanthesis.java)
 - [Min Stack](Stack/MinStack.java)
+- [Next Greater Element](Stack/NextGreaterElement.java)
 
 
 
