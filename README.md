@@ -195,6 +195,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Balanced Paranthesis](Stack/BalancedParanthesis.java)
 - [Min Stack](Stack/MinStack.java)
 - [Next Greater Element](Stack/NextGreaterElement.java)
+- [Next Greater Element II](Stack/NextGreaterElement2.java)
 
 
 
