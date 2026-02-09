@@ -196,6 +196,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Min Stack](Stack/MinStack.java)
 - [Next Greater Element](Stack/NextGreaterElement.java)
 - [Next Greater Element II](Stack/NextGreaterElement2.java)
+- [Next Smaller Element](Stack/NextSmallerElement.java)
 
 
 
