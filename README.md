@@ -201,7 +201,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Sum of Subarray Minimums](Stack/SumOfSubarrayMinimums.java)
 - [Asteroid Collision](Stack/AsteroidCollision.java)
 - [Sum of Subarray Ranges](Stack/SumOfSubarrayRanges.java)
-
+- [Remove K Digits](Stack/RemoveKDigits.java)
 
 
 
