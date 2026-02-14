@@ -202,7 +202,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Asteroid Collision](Stack/AsteroidCollision.java)
 - [Sum of Subarray Ranges](Stack/SumOfSubarrayRanges.java)
 - [Remove K Digits](Stack/RemoveKDigits.java)
-
+- [Rectangle Area in Histogram](Stack/RectangleAreaInHistogram.java)
 
 
 ---
