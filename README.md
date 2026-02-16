@@ -204,6 +204,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Remove K Digits](Stack/RemoveKDigits.java)
 - [Rectangle Area in Histogram](Stack/RectangleAreaInHistogram.java)
 - [Maximal Rectangle](Stack/MaximalRectangle.java)
+- [Sliding Window Maximum](Stack/SlidingWindowMaximum.java)
 
 ---
 
