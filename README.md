@@ -207,6 +207,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Sliding Window Maximum](Stack/SlidingWindowMaximum.java)
 - [Online Stock Span](Stack/OnlineStockSpan.java)
 - [Celebrity Problem](Stack/CelebrityProblem.java)
+- [LRU Cache](Stack/LRUCache.java)
 
 ---
 
