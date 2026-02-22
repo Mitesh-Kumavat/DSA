@@ -208,6 +208,7 @@ Below are the topics I am learning along with links to my implementations:
 - [Online Stock Span](Stack/OnlineStockSpan.java)
 - [Celebrity Problem](Stack/CelebrityProblem.java)
 - [LRU Cache](Stack/LRUCache.java)
+- [LFU Cache](Stack/LFUCache.java)
 
 ---
 
