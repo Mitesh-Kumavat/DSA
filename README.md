@@ -210,6 +210,10 @@ Below are the topics I am learning along with links to my implementations:
 - [LRU Cache](Stack/LRUCache.java)
 - [LFU Cache](Stack/LFUCache.java)
 
+## 🔹 Sliding Window & Two Pointer Combined
+
+- [Longest Substring Without Repeating Characters](SlidingWindow/LongestSubstringWithoutRepeating.java)
+
 ---
 
 ## 🏆 Goals & Progress
