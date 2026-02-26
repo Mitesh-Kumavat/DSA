@@ -213,6 +213,7 @@ Below are the topics I am learning along with links to my implementations:
 ## 🔹 Sliding Window & Two Pointer Combined
 
 - [Longest Substring Without Repeating Characters](SlidingWindow/LongestSubstringWithoutRepeating.java)
+- [Max Consecutive Ones III](SlidingWindow/MaxConsecutiveOnes3.java)
 
 ---
 
