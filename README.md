@@ -215,6 +215,8 @@ Below are the topics I am learning along with links to my implementations:
 - [Longest Substring Without Repeating Characters](SlidingWindow/LongestSubstringWithoutRepeating.java)
 - [Max Consecutive Ones III](SlidingWindow/MaxConsecutiveOnes3.java)
 - [Fruit Into Baskets](SlidingWindow/FruitIntoBaskets.java)
+- [Longest Repeating Character Replacement](SlidingWindow/LongestRepeatingCharacterReplacement.java)
+
 ---
 
 ## 🏆 Goals & Progress
